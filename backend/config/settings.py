@@ -201,6 +201,7 @@ REST_FRAMEWORK = {
 # We will add the Vercel URL after deploying the frontend.
 
 CORS_ALLOWED_ORIGINS = [
+    "https://task-management-frontend-eight-kappa.vercel.app",
     "http://localhost:5173",
 ]
 
