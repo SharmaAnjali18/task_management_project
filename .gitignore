@@ -33,3 +33,7 @@ build/
 
 # Vercel
 .vercel/
+
+# Frontend & Backend part
+backend/db.sqlite3
+frontend/.env
